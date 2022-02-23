@@ -1,2 +1,2 @@
-# SistemaAcademico
-Projeto para aprendizado. Aulas de DS. Professor Jackson
+# SitemaAcademico
+Projeto para aprendizado. Aulas de DS. Professor Jackson 
